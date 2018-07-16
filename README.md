@@ -2,7 +2,7 @@
 
 > ## php
 >
-> > [时间函数-日期区间][http://www.baidu.com]
+> > [时间函数-日期区间](https://github.com/yudianguo/codebase/blob/master/php/date.php)
 
 > ## Mysql
 
